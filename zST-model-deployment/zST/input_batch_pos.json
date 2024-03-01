@@ -1,0 +1,1 @@
+{"inputs":[{"name":"IN0","shape":[1,10],"datatype":"BYTES","data":[["0","0","2002","9","5","935","57.10","Swipe Transaction","4055257078481058705","91750.0"]]}],"outputs":[{"name":"OUT0"}]}
