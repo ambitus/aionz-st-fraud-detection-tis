@@ -12,6 +12,5 @@ View or download the [official AI Solution Template PDF](https://github.com/ambi
     - Evan Rivera (Evan.Rivera@ibm.com)
 - Development:
     - Evan Rivera (Evan.Rivera@ibm.com)
-    - Evershop Project (https://github.com/evershopcommerce/evershop)
 - Design:
     - Alexis Landis (alexis.mae.landis@ibm.com)
