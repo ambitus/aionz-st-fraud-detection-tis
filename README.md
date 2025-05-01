@@ -11,5 +11,6 @@ View or download the [official AI Solution Template PDF](https://github.com/ambi
 - Development:
     - Evan Rivera (Evan.Rivera@ibm.com)
     - Jasmeet Bhatia (jbhatia@ibm.com)
+    - James Roca (jmroca@us.ibm.com) 
 - Design:
     - Alexis Landis (alexis.mae.landis@ibm.com)
